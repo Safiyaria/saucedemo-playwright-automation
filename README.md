@@ -11,7 +11,7 @@ What the test verifies
 - Cart badge shows correct count
 - Product name in cart matches the added product
 - User can log out successfully
-- 
+  
 Configuration
 The test is configured to run on:
 Chromium (Chrome/Edge)
